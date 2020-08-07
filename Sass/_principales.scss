@@ -1,0 +1,25 @@
+/* General */
+
+@font-face {
+    font-family: 'Patua One', cursive;
+    src: url(../Fonts/PatuaOne-Regular.ttf);
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+    font-family: 'Patua One', cursive;
+    font-size: 16px;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
